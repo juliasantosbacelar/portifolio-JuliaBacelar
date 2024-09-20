@@ -1,5 +1,5 @@
 import { desafios } from "./desafios.js";
-import { projetos } from "./projetos.js";
+/*import { projetos } from "./projetos.js";*/
 
 const navigation = document.querySelector("#navigation");
 const backToTopButton = document.querySelector("#backToTopButton");
