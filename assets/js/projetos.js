@@ -1,4 +1,4 @@
-function projetos(section) {
+/*function projetos(section) {
   section.innerHTML = `<header>
       <h2>Projetos</h2>
     </header>
@@ -276,4 +276,4 @@ function projetos(section) {
     </div>`;
 }
 
-export { projetos };
+export { projetos };*/
